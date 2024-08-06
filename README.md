@@ -3,8 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://x.com/Veeru8197809829/communities/explore"> Twitter</a>
-<p align="left"> <a href="veereshveeru676@gmail.com"> Gmail </a>
-<p align="left"> <a href="veereshakki_8310"> Instagram</a>
+<p align="left"> <a href="https://instagram.com/veereshakki_8310"> Instagram</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
